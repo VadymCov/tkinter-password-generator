@@ -6,10 +6,10 @@
 
 ## Features
 
-✅- Generates secure random passwords using `secrets` module
-✅- Clean, centered GUI interface
-✅- One-click password generation
-✅- 10-character URL-safe passwords
+✅- **Generates secure random passwords using `secrets` module**
+✅- **Clean, centered GUI interface**
+✅- **One-click password generation**
+✅- **10-character URL-safe passwords**
 
 ## Requirements
 
